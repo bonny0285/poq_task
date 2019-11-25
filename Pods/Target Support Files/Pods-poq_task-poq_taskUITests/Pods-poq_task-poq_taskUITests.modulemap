@@ -1,0 +1,6 @@
+framework module Pods_poq_task_poq_taskUITests {
+  umbrella header "Pods-poq_task-poq_taskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
